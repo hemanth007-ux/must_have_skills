@@ -10,5 +10,6 @@ int main()
 int sum()
 {
     int a=5,b=10;
+    printf("one more commit in same PR");
     return a+b;
 }
